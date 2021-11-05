@@ -1,2 +1,2 @@
-# computer_vision_hs21
-computer_vision_hs21
+# CV_Lecture_ETH_HS21
+
