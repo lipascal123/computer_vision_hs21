@@ -7,3 +7,7 @@ The goal is to train a classifier for a 2D dataset. The data is not linearly sep
 
 ### Digit Classifier
 The goal of the second exervise is to train a convolutional neural network to classifiy the hand written digits of the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
+
+## Assignment 2
+
+TBD
