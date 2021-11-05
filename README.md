@@ -17,5 +17,12 @@ in the second exercise I trained a convolutional neural network to classifiy the
 
 ## Assignment 2
 
-###
+This Assignment is about image segmentation
+
+### Mean Shift 
+In this exercise the mean shift algorithm is implemented to cluster pixels. A batchified version running on a GPU with pytorch and cuda achieves a runtime of 3 seconds to segment a cow image.
+
+### SegNet
+A lite version of the SegNet is used to perform image segmenteation on the MNIST dataset. An accuracy of 86% (IoU) is achieved.
+
 
