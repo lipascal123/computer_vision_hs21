@@ -31,7 +31,7 @@ In this exercise I calibrated a camera and a structre from motion (sfm) problem 
 The left picture shows one of the input images and the other picture the reconstructed scene.
 
 <p float="middle">  
-  <img src="https://user-images.githubusercontent.com/43472532/200794427-5caff0ed-9081-4467-bc59-f552b6c79beb.png" width="40%" align="left">
+  <img src="https://user-images.githubusercontent.com/43472532/200794427-5caff0ed-9081-4467-bc59-f552b6c79beb.png" width="40%">
   <img src="https://user-images.githubusercontent.com/43472532/200794721-fbb32674-721c-4dac-9664-3d1a7244c57a.png" width="25%">
 </p>
 
