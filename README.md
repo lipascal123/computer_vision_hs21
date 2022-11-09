@@ -31,13 +31,18 @@ In this exercise I calibrated a camera and a structre from motion (sfm) problem 
 ### Structure from Motion
 The left picture shows one of the input images and the other picture the reconstructed scene.
 
-ADD PICTURES
+![0000](https://user-images.githubusercontent.com/43472532/200794427-5caff0ed-9081-4467-bc59-f552b6c79beb.png)
+
+![Screenshot from 2022-11-09 10-37-25](https://user-images.githubusercontent.com/43472532/200794721-fbb32674-721c-4dac-9664-3d1a7244c57a.png)
 
 
 ## Assignment 4
 In the first part I implemented a RANSAC for robust model fitting. In the second part I solved a multi-view stereo problem using deep learning.
 
-ADD TWO PICTURES
+![Screenshot from 2022-11-09 10-33-33](https://user-images.githubusercontent.com/43472532/200793810-6e768582-1184-4462-9802-f9325cba41b6.png)
+![Screenshot from 2022-11-09 10-34-41](https://user-images.githubusercontent.com/43472532/200794104-4297cc8f-800b-4502-a0a8-e070ef3e3c5c.png)
+
+
 
 ## Assignment 5
 The first part is the implementation of a bag-of-words classifier to test if an image contains a car or not. The second part is a CNN-based image classification on CIFAR-10 dataset.
@@ -45,6 +50,5 @@ The first part is the implementation of a bag-of-words classifier to test if an 
 ## Assignment 6
 In this exercise we solved a tracking problem using sampled-based solution of the recursive Bayesian filter. This allowed us to e.g. track the hand in the image depicted below.
 
-ADD PICTURE
-
+![Screenshot from 2022-11-09 10-32-01](https://user-images.githubusercontent.com/43472532/200793474-6ec85fab-72b7-476d-b2aa-5ae027855ef5.png)
 
