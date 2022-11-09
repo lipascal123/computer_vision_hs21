@@ -42,7 +42,7 @@ In the first part I implemented a RANSAC for robust model fitting. In the second
 
 <p float="middle">
   <img src="https://user-images.githubusercontent.com/43472532/200794104-4297cc8f-800b-4502-a0a8-e070ef3e3c5c.png" width="30%">
-  <img src="https://user-images.githubusercontent.com/43472532/200793810-6e768582-1184-4462-9802-f9325cba41b6.png" width="30%">
+  <img src="https://user-images.githubusercontent.com/43472532/200793810-6e768582-1184-4462-9802-f9325cba41b6.png" width="25%">
 </p>
 
 ## Assignment 5
