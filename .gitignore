@@ -1,6 +1,6 @@
 **/dtu_dataset
-**/datasets*
-**/data*
+# **/datasets*
+# **/data*
 **/hand_in*
 hand_in.zip
 Exercise_session_recording.mp4

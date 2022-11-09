@@ -25,4 +25,26 @@ In this exercise the mean shift algorithm is implemented to cluster pixels. A ba
 ### SegNet
 A lite version of the SegNet is used to perform image segmenteation on the MNIST dataset. An accuracy of 86% (IoU) is achieved.
 
+## Assignment 3
+In this exercise I calibrated a camera and a structre from motion (sfm) problem where I reconstruced a small scene.
+
+### Structure from Motion
+The left picture shows one of the input images and the other picture the reconstructed scene.
+
+ADD PICTURES
+
+
+## Assignment 4
+In the first part I implemented a RANSAC for robust model fitting. In the second part I solved a multi-view stereo problem using deep learning.
+
+ADD TWO PICTURES
+
+## Assignment 5
+The first part is the implementation of a bag-of-words classifier to test if an image contains a car or not. The second part is a CNN-based image classification on CIFAR-10 dataset.
+
+## Assignment 6
+In this exercise we solved a tracking problem using sampled-based solution of the recursive Bayesian filter. This allowed us to e.g. track the hand in the image depicted below.
+
+ADD PICTURE
+
 

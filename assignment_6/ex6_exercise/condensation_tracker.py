@@ -226,13 +226,13 @@ if __name__ == "__main__":
     params = {
         "draw_plots": 1,
         "hist_bin": 16, #16
-        "alpha": 0.6, #0.0
-        "sigma_observe":3, #0.1
+        "alpha": 0.01, #0.0
+        "sigma_observe": 0.3, #0.1
         "model": 0,
-        "num_particles": 100, # 300
-        "sigma_position": 5, # 15
+        "num_particles": 500, # 300
+        "sigma_position": 15, # 15
         "sigma_velocity": 1, # 1
-        "initial_velocity": (-5, -10)  # (1, 10)
+        "initial_velocity": (1, 10)  # (1, 10)
     }
     tik = time.time()
     condensation_tracker(video_name, params)

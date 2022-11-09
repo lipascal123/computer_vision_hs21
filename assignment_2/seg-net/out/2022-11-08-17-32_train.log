@@ -1,0 +1,18 @@
+2022-11-08 17:32:36,342 Namespace(eval_interval=1, frequent=10, gpus='', num_workers=4, out_dir='out')
+2022-11-08 17:32:36,352 => load 200 samples
+2022-11-08 17:32:36,353 => load 200 samples
+2022-11-08 17:32:38,441 Epoch: [0][0/200]	Time 2.088s (2.088s)	Speed 15.3 samples/s	Data 1.723s (1.723s)	Loss 2.53597 (2.53597)
+2022-11-08 17:32:41,565 Epoch: [0][10/200]	Time 0.292s (0.474s)	Speed 109.8 samples/s	Data 0.000s (0.157s)	Loss 2.05286 (2.26283)
+2022-11-08 17:32:44,732 Epoch: [0][20/200]	Time 0.300s (0.399s)	Speed 106.7 samples/s	Data 0.000s (0.082s)	Loss 1.76593 (2.08503)
+2022-11-08 17:32:48,088 Epoch: [0][30/200]	Time 0.321s (0.379s)	Speed 99.7 samples/s	Data 0.000s (0.056s)	Loss 1.51174 (1.93437)
+2022-11-08 17:32:51,214 Epoch: [0][40/200]	Time 0.311s (0.362s)	Speed 102.9 samples/s	Data 0.000s (0.042s)	Loss 1.28673 (1.80071)
+2022-11-08 17:32:54,391 Epoch: [0][50/200]	Time 0.290s (0.354s)	Speed 110.5 samples/s	Data 0.000s (0.034s)	Loss 1.09562 (1.67958)
+2022-11-08 17:32:57,417 Epoch: [0][60/200]	Time 0.296s (0.345s)	Speed 108.3 samples/s	Data 0.000s (0.029s)	Loss 0.92685 (1.56786)
+2022-11-08 17:33:00,573 Epoch: [0][70/200]	Time 0.294s (0.341s)	Speed 108.8 samples/s	Data 0.000s (0.025s)	Loss 0.77000 (1.46601)
+2022-11-08 17:33:03,953 Epoch: [0][80/200]	Time 0.320s (0.341s)	Speed 100.1 samples/s	Data 0.000s (0.022s)	Loss 0.65838 (1.37259)
+2022-11-08 17:33:07,571 Epoch: [0][90/200]	Time 0.385s (0.343s)	Speed 83.0 samples/s	Data 0.000s (0.019s)	Loss 0.57790 (1.28840)
+2022-11-08 17:33:10,845 Epoch: [0][100/200]	Time 0.332s (0.342s)	Speed 96.5 samples/s	Data 0.000s (0.017s)	Loss 0.48545 (1.21256)
+2022-11-08 17:33:14,145 Epoch: [0][110/200]	Time 0.285s (0.340s)	Speed 112.4 samples/s	Data 0.000s (0.016s)	Loss 0.41609 (1.14405)
+2022-11-08 17:33:17,341 Epoch: [0][120/200]	Time 0.311s (0.339s)	Speed 102.8 samples/s	Data 0.000s (0.015s)	Loss 0.36430 (1.08228)
+2022-11-08 17:33:20,653 Epoch: [0][130/200]	Time 0.297s (0.338s)	Speed 107.9 samples/s	Data 0.000s (0.013s)	Loss 0.34636 (1.02628)
+2022-11-08 17:33:23,815 Epoch: [0][140/200]	Time 0.319s (0.337s)	Speed 100.4 samples/s	Data 0.000s (0.012s)	Loss 0.30809 (0.97640)
