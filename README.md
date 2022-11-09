@@ -14,7 +14,6 @@ In this exercise I trained a classifier for a 2D dataset. The data is not linear
 in the second exercise I trained a convolutional neural network to classifiy the hand written digits of the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
 
-
 ## Assignment 2
 
 This Assignment is about image segmentation
@@ -37,12 +36,11 @@ The left picture shows one of the input images and the other picture the reconst
 </p>
 
 ## Assignment 4
-In the first part I implemented a RANSAC for robust model fitting. In the second part I solved a multi-view stereo problem using deep learning.
-
+In the first part I implemented a RANSAC for robust model fitting. In the second part I solved a multi-view stereo problem using deep learning. The left picture below depicts the approach and the right one the reconstructed object.
 
 <p float="middle">
   <img src="https://user-images.githubusercontent.com/43472532/200794104-4297cc8f-800b-4502-a0a8-e070ef3e3c5c.png" width="30%">
-  <img src="https://user-images.githubusercontent.com/43472532/200793810-6e768582-1184-4462-9802-f9325cba41b6.png" width="25%">
+  <img src="https://user-images.githubusercontent.com/43472532/200793810-6e768582-1184-4462-9802-f9325cba41b6.png" width="20%">
 </p>
 
 ## Assignment 5
