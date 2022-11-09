@@ -47,6 +47,7 @@ In the first part I implemented a RANSAC for robust model fitting. In the second
 The first part is the implementation of a bag-of-words classifier to test if an image contains a car or not. The second part is a CNN-based image classification on CIFAR-10 dataset.
 
 ## Assignment 6
+
+<img src="https://user-images.githubusercontent.com/43472532/200793474-6ec85fab-72b7-476d-b2aa-5ae027855ef5.png" width="250" align="right">
 In this exercise we solved a tracking problem using sampled-based solution of the recursive Bayesian filter. This allowed us to e.g. track the hand in the image depicted below.
 
-<img src="https://user-images.githubusercontent.com/43472532/200793474-6ec85fab-72b7-476d-b2aa-5ae027855ef5.png" width="350" align="middle">
